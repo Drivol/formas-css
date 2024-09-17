@@ -1,8 +1,23 @@
 body{
-    background-color: blue;
+    background-color: rgb(60, 152, 185);
 }
 
 #container{
-    width: 20px auto;
-   
+    margin: 20px auto;
+    width: 500px;
+}
+
+#teto{
+    
+        width: 250px;
+        height: 100px;
+        background-color: #2f50f2; /* Cor vermelha */
+        border-top: 2px solid #000000; 
+        border-left: 2px solid black;
+        border-right: 2px solid black;
+        border-radius: 10%;
+    }
+    
+#corpo {
+
 }
